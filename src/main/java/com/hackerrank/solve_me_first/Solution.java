@@ -1,5 +1,9 @@
 package com.hackerrank.solve_me_first;
 
+//problem :: https://www.hackerrank.com/challenges/solve-me-first/problem
+//blog post ::
+//youtube tutorial ::
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
